@@ -3,6 +3,7 @@
 
 ### Node ###
 # Logs
+mysql_data
 logs
 *.log
 npm-debug.log*
