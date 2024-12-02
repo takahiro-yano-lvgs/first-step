@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "tsx watch src/main.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@hono/node-server": "1.13.7",
+    "bcrypt": "5.1.1",
+    "hono": "4.6.11",
+    "mysql2": "3.11.4"
+  },
+  "devDependencies": {
+    "tsx": "4.19.2"
+  }
+}
